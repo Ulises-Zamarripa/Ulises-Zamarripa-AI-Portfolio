@@ -16,15 +16,14 @@ through the program.
 
 ### Deep Learning (ITAI 1378)
 - [CNN Image Classifier](link-to-project) - 
-- [RNN Text Generator](link-to-project) - 
 
 ### Computer Vision (ITAI 1378)
 - [Object Detection System](link-to-Lab04) - NN for image classificaiton 
-- [Image Classification](link-to-Lab05) - CNN for image classification 
+- [Image Classification](link-to-Lab05) - 
 
 ### Natural Language Processing (ITAI 1378)
 - [Virtual Language Models](link-to-project) -  Implemented VLMs within applications
-- [Chatbot Implementation](link-to-project) - Built conversational AI
+
 
 ## Contact
 - Email: Uliseszamarripa05@gmail.com
