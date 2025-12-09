@@ -23,7 +23,7 @@ through the program.
 - [Image Classification](link-to-Lab05) - CNN for image classification 
 
 ### Natural Language Processing (ITAI 1378)
-- [Sentiment Analysis Tool](link-to-project) - 
+- [Virtual Language Models](link-to-project) -  Implemented VLMs within applications
 - [Chatbot Implementation](link-to-project) - Built conversational AI
 
 ## Contact
