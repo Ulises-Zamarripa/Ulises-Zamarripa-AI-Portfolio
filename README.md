@@ -14,16 +14,16 @@ through the program.
 
 ## Featured Courses & Projects
 
-### Deep Learning (ITAI 2376)
-- [CNN Image Classifier](link-to-project) - Achieved 95% accuracy on CIFAR-10
-- [RNN Text Generator](link-to-project) - Generated coherent text using LSTM
+### Deep Learning (ITAI 1378)
+- [CNN Image Classifier](link-to-project) - 
+- [RNN Text Generator](link-to-project) - 
 
 ### Computer Vision (ITAI 1378)
-- [Object Detection System](link-to-project) - Real-time detection using YOLO
-- [Image Segmentation](link-to-project) - Semantic segmentation with U-Net
+- [Object Detection System](link-to-Lab04) - NN for image classificaiton 
+- [Image Classification](link-to-Lab05) - CNN for image classification 
 
-### Natural Language Processing (ITAI 2373)
-- [Sentiment Analysis Tool](link-to-project) - Analyzed customer reviews
+### Natural Language Processing (ITAI 1378)
+- [Sentiment Analysis Tool](link-to-project) - 
 - [Chatbot Implementation](link-to-project) - Built conversational AI
 
 ## Contact
