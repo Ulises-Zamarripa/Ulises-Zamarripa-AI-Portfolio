@@ -19,7 +19,7 @@ through the program.
 
 ### Computer Vision (ITAI 1378)
 - [Object Detection System](link-to-Lab04) - NN for image classificaiton 
-- [Image Classification](link-to-Lab05) - 
+- [Image Classification](https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/notebooks/L03_UlisesZamarripa_ITAI_1378.ipynb) - Machine Learning
 
 ### Natural Language Processing (ITAI 1378)
 - [Virtual Language Models](link-to-project) -  Implemented VLMs within applications
