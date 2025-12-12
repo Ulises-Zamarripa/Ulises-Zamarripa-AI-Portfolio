@@ -15,15 +15,12 @@ through the program.
 ## Featured Courses & Projects
 
 ### Deep Learning (ITAI 1378)
-- [CNN Image Classifier](link-to-project) - 
+- [CNN Image Classifier](https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/results/L05_Ulises_Zamarripa_ITAI_1387.pdf) 
 
 ### Computer Vision (ITAI 1378)
-- [Object Detection System](link-to-Lab04) - NN for image classificaiton 
-- [Image Classification](https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/notebooks/L03_UlisesZamarripa_ITAI_1378.ipynb) - Machine Learning
-
-### Natural Language Processing (ITAI 1378)
-- [Virtual Language Models](link-to-project) -  Implemented VLMs within applications
-
+- [Object Detection System](https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/results/L04_Ulises_Zamarripa_ITAI_1378.pdf) 
+- [Image Classification](https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/notebooks/L03_UlisesZamarripa_ITAI_1378.ipynb) 
+- [Deep Learning]((https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/results/L06_Ulises%20Zamarripa_ITAI_1378.pdf)) 
 
 ## Contact
 - Email: Uliseszamarripa05@gmail.com
