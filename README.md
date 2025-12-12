@@ -20,7 +20,7 @@ through the program.
 ### Computer Vision (ITAI 1378)
 - [Object Detection System](https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/results/L04_Ulises_Zamarripa_ITAI_1378.pdf) 
 - [Image Classification](https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/notebooks/L03_UlisesZamarripa_ITAI_1378.ipynb) 
-- [Deep Learning]((https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/results/L06_Ulises%20Zamarripa_ITAI_1378.pdf)) 
+- [Deep Learning](https://github.com/Ulises-Zamarripa/Ulises-Zamarripa-AI-Portfolio/blob/main/results/L06_Ulises%20Zamarripa_ITAI_1378.pdf) 
 
 ## Contact
 - Email: Uliseszamarripa05@gmail.com
